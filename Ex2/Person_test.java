@@ -1,4 +1,3 @@
-package com.metanit.Ex2;
 
 public class Person_test {
     public static void main(String[] args) {
