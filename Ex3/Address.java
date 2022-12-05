@@ -1,4 +1,3 @@
-package com.metanit.Ex3;
 
 import java.util.StringTokenizer;
 
