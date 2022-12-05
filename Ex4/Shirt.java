@@ -1,4 +1,3 @@
-package com.metanit.Ex4;
 
 public class Shirt {
     private String number, name, color, size;
