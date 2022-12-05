@@ -1,4 +1,3 @@
-package com.metanit.Ex5;
 
 public class PhoneNumber {
     private String code, A, B, C;
