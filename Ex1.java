@@ -1,4 +1,3 @@
-package com.metanit;
 
 public class Ex1 {
     public static void Ex1(String S){
