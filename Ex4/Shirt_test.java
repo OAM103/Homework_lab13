@@ -1,4 +1,3 @@
-package com.metanit.Ex4;
 
 public class Shirt_test {
     public static void main(String[] args) {
