@@ -1,4 +1,3 @@
-package com.metanit.Ex3;
 
 public class Address_test {
     public static void main(String[] args) {
